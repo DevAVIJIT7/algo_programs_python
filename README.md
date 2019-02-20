@@ -1,2 +1,2 @@
-# algo_programs_python
+# Algorithms using python
 Python based algorithms
